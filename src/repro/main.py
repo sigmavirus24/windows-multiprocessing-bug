@@ -21,4 +21,6 @@ def main():
     procs = [multiprocessing.Process(target=_target, args=(job_queue,))
              for _ in range(5)]
     for proc in procs:
+        proc.start()
+    for proc in procs:
         proc.join()
