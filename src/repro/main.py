@@ -11,7 +11,7 @@ def _target(queue):
 
 
 def main():
-    multiprocessing.set_start_method('spawn')
+    multiprocessing.set_start_method('fork')
     job_queue = multiprocessing.Queue()
     mccabe.McCabeChecker.max_complexity = 10
     job_queue.put((mccabe.McCabeChecker, 'max_complexity', 10))
