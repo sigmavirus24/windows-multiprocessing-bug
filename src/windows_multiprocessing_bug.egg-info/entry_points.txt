@@ -1,0 +1,3 @@
+[console_scripts]
+run-multiprocessing-test = repro.main:main
+

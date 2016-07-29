@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: windows-multiprocessing-bug
+Version: 1.0.0
+Summary: Small reproduction case for Windows multiprocessing bug
+Home-page: https://github.com/sigmavirus24/windows-multiprocessing-bug
+Author: Ian Cordasco
+Author-email: graffatcolmingov@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Framework :: Flake8

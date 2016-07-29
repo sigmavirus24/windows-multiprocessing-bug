@@ -1,0 +1,9 @@
+setup.py
+src/repro/__init__.py
+src/repro/main.py
+src/windows_multiprocessing_bug.egg-info/PKG-INFO
+src/windows_multiprocessing_bug.egg-info/SOURCES.txt
+src/windows_multiprocessing_bug.egg-info/dependency_links.txt
+src/windows_multiprocessing_bug.egg-info/entry_points.txt
+src/windows_multiprocessing_bug.egg-info/requires.txt
+src/windows_multiprocessing_bug.egg-info/top_level.txt
